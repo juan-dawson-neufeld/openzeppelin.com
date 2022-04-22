@@ -1,7 +1,7 @@
 ---
 layout: tos
 title: 'Terms of Service'
-subtitle: 'Last Updated: November 15, 2021'
+subtitle: 'Last Updated: April 21, 2022'
 ---
 
 Your use of the OpenZeppelin Services is governed by this agreement (the "**Terms**"). The "**Services**" mean:
@@ -53,7 +53,7 @@ We refer to these two types of end users of the Services collectively as "**User
 
 #### 4. Representations, Warranties, and Risks
 
-4.1 The Services may be accessed from countries around the world and may contain references to Services and content that are not available in your country. OpenZeppelin makes no representations that the Services are appropriate or available for use in all locations. You acknowledge and agree that you may not use the Services if you are a person barred from using the Services under the laws the country in which you are resident or from which you use the Services. Those who access or use the Services or content agree to do so at their own volition and acknowledge they are responsible for compliance with local law.
+4.1 The Services may be accessed from countries around the world and may contain references to Services and content that are not available in your country. OpenZeppelin makes no representations that the Services are appropriate or available for use in all locations. Your use of the Services is subject to international export controls and economic sanctions requirements. By accessing or using the Services, you agree that you will comply with those requirements. You are not permitted to access or use any of the Services if you are in, under the control of, or a national or resident of Cuba, Iran, North Korea, Sudan, or Syria or any other country subject to United States embargo, UN sanctions, the European Union or HM Treasury's financial sanctions regimes, or if you are a person on the economic sanctions lists as published from time to time by applicable authorities (including, but not limited  to the  Office  of Financial  Sanctions Implementation (part  of  HM  Treasury), the U.S. Commerce Department's Denied Persons List, Unverified List, or Entity List, or the EU financial sanctions regime). You acknowledge and agree that you may not use the Services if you are a person barred from using the Services under the laws the country in which you are resident or from which you use the Services. Those who access or use the Services or content agree to do so at their own volition and acknowledge they are responsible for compliance with local law.
 
 4.2 You acknowledge that the Services are subject to flaws and agree that you are solely responsible for evaluating any Services, including but not limited to software, code and audit reports, provided or made available by OpenZeppelin. This warning and others later provided by OpenZeppelin in no way evidence or represent an on-going duty to correct any flaws or alert you to all of the potential risks of utilizing the Services.
 
